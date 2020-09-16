@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7b39147-ceb6-4ab0-8364-972a105cd924" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="51" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YwAY4HWZXoTAZksPJ8maaMkOV0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Downloads\Auto\drivers" />
+      <recent name="C:\Users\User\IdeaProjects\Auto\drivers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Downloads\Automation" />
+      <recent name="C:\Users\User\Downloads\Auto\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TC_01_Create_An_Account_And_Login">
+    <configuration name="C:/Users/User/Downloads/Auto/src/test/java/resources/testng.xml" type="TestNG" nameIsGenerated="true">
+      <module name="Automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/User/Downloads/Auto/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_01_Create_An_Account_And_Login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ui" />
+      <option name="MAIN_CLASS_NAME" value="tests.ui.TC_01_Create_An_Account_And_Login" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_01_Create_An_Account_And_Login.validateLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ui" />
+      <option name="MAIN_CLASS_NAME" value="tests.ui.TC_01_Create_An_Account_And_Login" />
+      <option name="METHOD_NAME" value="validateLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_01_Login" type="TestNG" nameIsGenerated="true">
+      <module name="Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ui.TC_01_Login" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea " />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_03_Delete_User" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.api" />
+      <option name="MAIN_CLASS_NAME" value="tests.api.TC_03_Delete_User" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_04_Register" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.api" />
+      <option name="MAIN_CLASS_NAME" value="tests.api.TC_04_Register" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TC_01_Login" />
+      <item itemvalue="TestNG.C:/Users/User/Downloads/Auto/src/test/java/resources/testng.xml" />
+      <item itemvalue="TestNG.C:/Users/User/Downloads/Auto/src/test/resources/testng.xml" />
+      <item itemvalue="TestNG.TC_04_Register" />
+      <item itemvalue="TestNG.TC_03_Delete_User" />
+      <item itemvalue="TestNG.TC_01_Create_An_Account_And_Login.validateLogin" />
+      <item itemvalue="TestNG.TC_01_Create_An_Account_And_Login" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TC_01_Create_An_Account_And_Login" />
+        <item itemvalue="TestNG.TC_01_Create_An_Account_And_Login.validateLogin" />
+        <item itemvalue="TestNG.C:/Users/User/Downloads/Auto/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.TC_03_Delete_User" />
+        <item itemvalue="TestNG.TC_04_Register" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7b39147-ceb6-4ab0-8364-972a105cd924" name="Default Changelist" comment="" />
+      <created>1583843326430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583843326430</updated>
+      <workItem from="1600240473711" duration="3627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="699" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600246238647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="699" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600246238647" />
+    <state x="808" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600240885277">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600240885277" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600246569581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600246569581" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1600246619632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600246619632" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1600246619632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600246619632" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1600246619631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600246619631" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1600246619632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600246619632" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1600240473724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600240473724" />
+    <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1600247120125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="118" width="607" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600247120125" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/BestSellersPage.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/api/TC_03_Delete_User.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/api/TC_04_Register.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/api/TC_04_Register.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/services/RestMethods.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/HomePage.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/HomePage.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/HomePage.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/services/RegistrationService.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/framework/BaseTest.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/api/TC_04_Register.java</url>
+          <line>11</line>
+          <properties field="registrationService" class="tests.api.TC_04_Register" />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Automation$TC_02_ValidateCategories_validateBestSellersCategoryHasSevenProductsOnGrid.ic" NAME="TC_02_ValidateCategories.validateBestSellersCategoryHasSevenProductsOnGrid Coverage Results" MODIFIED="1598092889445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tests.ui.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Automation$C__Users_User_Downloads_Auto_src_test_resources_testng_xml.ic" NAME="$PROJECT_DIR$/../Auto/src/test/resources/testng.xml Coverage Results" MODIFIED="1598093128185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Automation$TC_06_Save_Printed_Dresses_In_Txt_File.ic" NAME="TC_06_Save_Printed_Dresses_In_Txt_File Coverage Results" MODIFIED="1598109325617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tests.ui.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Automation$TC_02_ValidateCategories_validateBestSellersCategoryHasSevenProducts.ic" NAME="TC_02_ValidateCategories.validateBestSellersCategoryHasSevenProducts Coverage Results" MODIFIED="1598092055580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tests.ui.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Automation$TC_06_Save_Printed_Dresses_In_Txt_File_searchForPrintedDresses.ic" NAME="TC_06_Save_Printed_Dresses_In_Txt_File.searchForPrintedDresses Coverage Results" MODIFIED="1598107969703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tests.ui.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Automation$TC_01_Create_An_Account_And_Login_validateLogin.ic" NAME="TC_01_Create_An_Account_And_Login.validateLogin Coverage Results" MODIFIED="1598082153822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tests.ui.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Automation$TC_02_API_sendAndValidatePostRequest.ic" NAME="TC_02_API.sendAndValidatePostRequest Coverage Results" MODIFIED="1598095162421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tests.api.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name=" UI Suite">
+    <test name="UI tests">
+        <parameter name="testType" value="ui"/>
+        <groups>
+            <run>
+                <include name="uiTests"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="tests.ui.TC_01_Create_An_Account_And_Login"></class>
+        </classes>
+    </test>
+</suite>
